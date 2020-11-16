@@ -1,5 +1,4 @@
-<h1 align="center">Hey 👋, Almir Tavares</h1>
-<h3 align="center">Sou desenvolvedor mobile iOS</h3>
+<h1 align="center">Developer mobile iOS</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almirtavares&label=Profile%20views&color=0e75b6&style=flat" alt="almirtavares" /> </p>
 
